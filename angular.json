@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ConnectFour"
+  "defaultProject": "ConnectFour",
+  "cli": {
+    "analytics": false
+  }
 }
